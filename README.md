@@ -22,10 +22,10 @@ The detailed information is in the comment section [here](https://discuss.stream
         margin-left: -500px;
     }
     [data-baseweb="select"] {
-        margin-top: -10px;
+        margin-top: -8px;
     }
     [data-baseweb="input"] {
-        margin-top: -20px;
+        margin-top: -8px;
     }
     [data-baseweb="slider"] {
         margin-top: -15px;
