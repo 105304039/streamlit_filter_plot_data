@@ -45,9 +45,8 @@ The detailed information is in the comment section [here](https://discuss.stream
     
     </style>
     """,
-    unsafe_allow_html=True,
-)```
-
+    unsafe_allow_html=True)
+  ```
 * sections of webpage: Select data, Glance at data, Visualization<br>
   1. Select data, Glance at data<br>
   ![image](https://github.com/105304039/streamlit_filter_plot_data/blob/main/filer%20and%20display.png)<br>
