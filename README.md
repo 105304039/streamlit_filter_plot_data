@@ -10,7 +10,7 @@ The detailed information is in the comment section [here](https://discuss.stream
 ## Web Design
 * CSS and streamlit.markdown()
   I use `streamlit markdown()` to customize CSS styles.<br>
-  <code>
+  ```
   st.markdown(
     """
     <style>
@@ -46,7 +46,7 @@ The detailed information is in the comment section [here](https://discuss.stream
     </style>
     """,
     unsafe_allow_html=True,
-)</code>
+)```
 
 * sections of webpage: Select data, Glance at data, Visualization<br>
   1. Select data, Glance at data<br>
