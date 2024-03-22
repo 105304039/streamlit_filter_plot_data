@@ -41,8 +41,6 @@ The detailed information is in the comment section [here](https://discuss.stream
         background-color: #e6e7e8;
         border-radius: 30px;
         margin-top: 20px;}
-
-    
     </style>
     """,
     unsafe_allow_html=True)
