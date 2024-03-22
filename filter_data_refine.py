@@ -45,10 +45,10 @@ st.markdown(
         margin-left: -500px;
     }
     [data-baseweb="select"] {
-        margin-top: -10px;
+        margin-top: -8px;
     }
     [data-baseweb="input"] {
-        margin-top: -20px;
+        margin-top: -8px;
     }
     [data-baseweb="slider"] {
         margin-top: -15px;
@@ -64,8 +64,6 @@ st.markdown(
         background-color: #e6e7e8;
         border-radius: 30px;
         margin-top: 20px;}
-
-    
     </style>
     """,
     unsafe_allow_html=True,
